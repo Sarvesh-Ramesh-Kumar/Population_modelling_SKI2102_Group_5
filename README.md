@@ -13,7 +13,7 @@ This project aims to model the stable oscillations between the three, stable equ
 
 ### Variable description
 These parameters include; 
-#^y0 - initial population sizes of each species
+-  y0 - initial population sizes of each species
 *alpha* (1 and 2) - representing the predation success rate for both predators on their respective preys, this being a1 for the hare predation success rate on the plant and a2 for the lynx predation rate on the hare. 
 beta (1 and 2) - representing the population growth rate due to predation, b1 and b2 being the population growth rate of the hare from predation on plants and the lynx from predation on hare respectively. 
 delta (1 and 2) - represents the per capita death rate of the hare (d1) and the lynx (d2)
