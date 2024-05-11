@@ -4,7 +4,7 @@ Authors : add names here !
 
 ### Aim 
 The aim of this project is to study the different kinds of behaviours that are depicted by an interacting species system through the formulation of a system of ordinary differential equations (ODEs) for each of its components. The model is a three species model, composed of plants, hares and lynxes. It studies and represents the population changes depending on the interactions between the three species specified by multiple modifiable parameters that govern the system. Such a model has the capability to represent (un)stable equilibriums, periodic cycles, chaotic behaviours, limit cycles, etc depending on the different parameter settings. 
-This project aims to model the stable oscillations between the three, stable equilibrium but the lynx perish and chaotic oscillations between the three. The calculated modifications of such parameters is the key to the formulation of three different scenarios that have been described. The code has been written using MATLAB (.mlx file) and would require an add-on the Optimization toolbox. 
+This project aims to model the stable oscillations between the three, stable equilibrium but the lynx perish and chaotic oscillations between the three. These different behaviours have been described and can be visulised using a Population vs Time and State Space plot that are generated for each scenario. The calculated modifications of such parameters is the key to the formulation of three different scenarios that have been described. The code has been written using MATLAB (.mlx file) and will require an add-on the Optimization toolbox. 
 
 ### Variable description
 These parameters include; 
