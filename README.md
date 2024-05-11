@@ -1,6 +1,6 @@
 # Population_modelling
 Authors : add names here !
-## Project Descridption
+## Project Description
 
 ### Aim 
 The aim of this project is to study the different kinds of behaviours that are depicted by an interacting species system through the formulation of a system of ordinary differential equations (ODEs) for each of its components. The model is a three species model, composed of plants, hares and lynxes. It studies and represents the population changes depending on the interactions between the three species specified by multiple modifiable parameters that govern the system. Such a model has the capability to represent (un)stable equilibriums, periodic cycles, chaotic behaviours, limit cycles, etc depending on the different parameter settings. 
