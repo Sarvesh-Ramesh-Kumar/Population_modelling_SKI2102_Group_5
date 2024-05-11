@@ -9,7 +9,7 @@ This project aims to model the stable oscillations between the three, stable equ
 ### Variable description
 These parameters include; 
 * ***y0*** - initial population sizes of each species
-* ***a[a1,a2]*** - representing the predation success rate for both predators on their respective preys
+* ***a*** - representing the predation success rate for both predators on their respective preys
   - *a1* for the hare predation success rate on the plant
   - *a2* for the lynx predation success rate on the hare 
 * ***b*** - representing the population growth rate for both predators due to predation
