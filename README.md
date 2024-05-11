@@ -21,5 +21,7 @@ These parameters include;
   - *d2* for lynx death rate
 
  ### References 
- [book](https://sysbio.mx/wp-content/uploads/2021/02/2017_Book_ModelingLife.pdf)
+* https://modelinginbiology.github.io/Grass-Sheep-Wolves-interactive-simulations
+* https://sysbio.mx/wp-content/uploads/2021/02/2017_Book_ModelingLife.pdf
+
 
