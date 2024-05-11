@@ -20,7 +20,7 @@ These parameters include;
 * ***b*** - representing the population growth rate for both predators due to predation 
   - b1 for the hare population growth rate from plant predation
   - b2 for the lynx population growth rate from hare predation
--  ***d*** - represents the per capita death rate of the predators
+* ***d*** - represents the per capita death rate of the predators
   - d1 for hare death rate
   - d2 for lynx death rate
 
