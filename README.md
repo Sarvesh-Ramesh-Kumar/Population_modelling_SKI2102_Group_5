@@ -1,9 +1,5 @@
 # Population_modelling
-Authors :
-Helia von Vollenstein
-Natasha Nunez  
-Sarvesh Ramesh Kumar
-Tatiana Trauttmansdorff-Weinsberg
+Authors : Helia von Vollenstein; Natasha Nunez; Sarvesh Ramesh Kumar; Tatiana Trauttmansdorff-Weinsberg
 
 ## Project Description
 
