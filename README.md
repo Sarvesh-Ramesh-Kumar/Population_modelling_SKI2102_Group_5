@@ -1,9 +1,27 @@
 # Population_modelling
+Authors : add names here !
 
-DOCUMENTATION FILE! :))))
+Natasha Nunez - i6311759 
 
-Task 1: Describe in your own words (max 300 words) the model and model parameters: How do the populations of the three species change in the model? What do the parameters represent? Add some documentation to the Matlab file of the model
-ssss
+## Project Description
 
-TEST
-​​The model is a three species model, composed of plants, hares and lynxs. It studies and represents the population changes of the three species as multiple parameters are modified. These parameters include; y0, the initial population sizes of each species, alpha (1 and 2), representing the predation success rate for both predators on their respective preys, this being a1 for the hare predation success rate on the plant and a2 for the lynx predation rate on the hare. Furthermore is the parameter beta (1 and 2), representing the population growth rate due to predation, b1 and b2 being the population growth rate of the hare (from predation on plants) and the lynx (from predation on hare) respectively. The last parameter, delta (1 and 2), represents the per capita death rate of the hare (d1) and the lynx (d2). 
+### Aim 
+The aim of this project is to study the different kinds of behaviours that are depicted by an interacting species system through the formulation of a system of ordinary differential equations (ODEs) for each of its components. The model is a three-species model, composed of plants, hares, and lynxes. It studies and represents the population changes depending on the interactions between the three species specified by multiple modifiable parameters that govern the system. Such a model has the capability to represent (un)stable equilibriums, periodic cycles, chaotic behaviours, limit cycles, etc depending on the different parameter settings. 
+This project aims to model: stable oscillations between the three species, stable equilibrium but the lynx perish, and chaotic oscillations between the three species. These different behaviours have been described and can be visualised using a Population vs Time and a State Space plot that is generated for each scenario. The calculated modifications of such parameters are the key to the formulation of these cases. The code has been written using MATLAB (.mlx file) and will require the Optimization toolbox add-on. 
+
+### Variable description
+These parameters include; 
+* ***y0*** - initial population sizes of each species;  [plant, hare, lynx] format
+* ***a*** - representing the predation success rate for both predators on their respective prey
+  - *a1* for the hare predation success rate on the plant
+  - *a2* for the lynx predation success rate on the hare 
+* ***b*** - representing the population growth rate for both predators due to predation
+  - *b1* for the hare population growth rate from plant predation
+  - *b2* for the lynx population growth rate from hare predation
+* ***d*** - represents the per capita death rate of the predators
+  - *d1* for hare death rate
+  - *d2* for lynx death rate
+
+ ### References 
+* https://modelinginbiology.github.io/Grass-Sheep-Wolves-interactive-simulations
+* https://sysbio.mx/wp-content/uploads/2021/02/2017_Book_ModelingLife.pdf
