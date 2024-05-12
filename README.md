@@ -1,7 +1,9 @@
 # Population_modelling
-Authors : add names here !
-
-Natasha Nunez - i6311759 
+Authors :
+Helia von Vollenstein
+Natasha Nunez  
+Sarvesh Ramesh Kumar
+Tatiana Trauttmansdorff-Weinsberg
 
 ## Project Description
 
